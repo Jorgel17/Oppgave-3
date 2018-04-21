@@ -93,6 +93,7 @@ func response2(w http.ResponseWriter, r *http.Request) {
 	err = t.Execute(w, station)
 	if err != nil {
 		log.Fatal(err)
+
 	}
 
 }

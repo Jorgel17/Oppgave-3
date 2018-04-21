@@ -1,2 +1,5 @@
 # Oppgave-3
-test jokke
+Jørgen Lefdal
+Joakim Schølberg
+Jostein Våga Rygg
+Marius Tjøstheim
