@@ -1,16 +1,17 @@
 package main
 
+
 import (
 	"encoding/json"
 	"html/template"
 	"io/ioutil"
 	"log"
 	"net/http"
-
 	"github.com/gorilla/mux"
 )
-
+//Man må åpne terminalen og skrive "go get -u github.com/gorilla/mux" for at det skal fungere
 func main() {
+
 
 	r := mux.NewRouter()
 
