@@ -15,7 +15,7 @@ func main() {
 	}
 }
 
-const quoteOfDay = "«Jeg har ikke feilet. Jeg har bare funnet 10,000 måter som ikke fungerer.» – Thomas Edison"
+const quoteOfDay = "«If you ain't first you're last.» – Ricky Bobby"
 
 func tcp() {
 
