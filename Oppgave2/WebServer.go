@@ -12,7 +12,6 @@ import (
 //Man må åpne terminalen og skrive "go get -u github.com/gorilla/mux" for at det skal fungere
 func main() {
 
-
 	r := mux.NewRouter()
 
 	r.HandleFunc("/1", response1)
